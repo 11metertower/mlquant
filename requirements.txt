@@ -1,0 +1,10 @@
+requests
+pandas
+tqdm
+datetime
+python-dotenv
+pymysql
+schedule
+yfinance
+argparse
+numpy
