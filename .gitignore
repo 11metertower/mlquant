@@ -1,0 +1,6 @@
+.env
+.vscode
+crawler/krx/KRX
+crawler/krx/test*
+.DS_Store
+__pycache__
